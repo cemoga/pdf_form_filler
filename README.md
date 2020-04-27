@@ -1,6 +1,6 @@
 # PDF Form Filler
 
-![PDF Filler](screenshots/methods.png "PDF Filler")
+![PDF Filler](screenshot/methods.png "PDF Filler")
 
 ---
 
