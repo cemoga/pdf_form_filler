@@ -1,5 +1,9 @@
 # PDF Form Filler
 
+![PDF Filler](screenshots/methods.png "PDF Filler")
+
+---
+
 This repository contains the Python code to fill forms in PDF using two different methods. The code was taken from different sources and adapted to work according to my requirements.
 
 ## Method 1: Form Field Text Update
